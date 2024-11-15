@@ -1,0 +1,70 @@
+header{
+    color:blue;
+    text-align: center;
+    font-size:30px;
+    margin-bottom:20px;
+}
+body{
+    font-family: Edu Australia;
+    font-style:unset;
+    color: blue;
+    font-weight: 400;
+    font-style:normal;
+    border-radius: 25px;
+    text-align: center;
+}
+input, select{
+  border-radius: 25px;
+    border: 2px solid rgb(0, 255, 106);
+    border-color: rgb(0, 255, 106);
+    padding: 5px;
+}
+.container {
+  background-color: rgb(0, 140, 255);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.item {
+  background-color: rgba(0, 255, 13, 0.2); 
+  width: 100px;
+  border-radius: 15px; 
+  align-items: center;
+  color: rgb(25, 0, 255);
+  font-family: Edu Australia;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.item2 {
+  background-color: rgba(0, 255, 13, 0.2); 
+  width: 100px;
+  border-radius: 15px; 
+  align-items: center;
+  color: rgb(25, 0, 255);
+  font-family: Edu Australia;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.item3 {
+  background-color: rgba(0, 255, 13, 0.2); 
+  width: 100px;
+  border-radius: 15px; 
+  align-items: center;
+  color: rgb(0, 140, 255);
+  font-family: Edu Australia;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
