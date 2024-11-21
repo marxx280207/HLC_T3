@@ -1,0 +1,56 @@
+header{
+  background-color: black;
+  color: rgb(255, 255, 255);
+  justify-content: space-between;
+  padding: 15px;
+  display: flex;
+}
+a{
+color: white;
+background-color: rgb(0, 0, 0);
+}
+a:hover{
+  background-color: rgb(0, 128, 32);
+  transition:ease-in;
+  transition-duration:1s;
+  border-radius: 10px;
+}
+body{
+  background-color: white;
+  text-align: center;
+}
+.cabecera{
+  justify-content: space-between;
+}
+h5{
+  color: rgb(255, 255, 255);
+  justify-content: space-around;
+  
+}
+.container{
+  display: flex;
+}
+.boostrap{
+  background-color: green;
+  padding: 20px;
+  color: white;
+  border: 0px;
+}
+.Cards{
+  padding: 2%;
+}
+.card-body{
+  text-align: left;
+}
+.formulario{
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+footer{
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
